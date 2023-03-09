@@ -1,1 +1,1 @@
-* clock project by javascript
+# clock project by javascript
