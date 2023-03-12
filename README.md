@@ -2,7 +2,7 @@
 this is a clock project by **javascript**
 
 ## UI
-<img width="1440" alt="Screenshot 1401-12-18 at 22 29 52" src="https://user-images.githubusercontent.com/108836322/224127696-b66a1704-84e8-4f23-bee6-c84d8b6ba5f1.png">
+https://user-images.githubusercontent.com/108836322/224543039-0958993a-5fd1-4329-b9c2-b6f77b9a3b9a.mov
 
 ## front code
 <img width="932" alt="Screenshot 1401-12-18 at 22 33 40" src="https://user-images.githubusercontent.com/108836322/224128491-e12ae44c-c7b0-4a30-9890-48bfa8298171.png">
