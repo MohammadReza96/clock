@@ -1,6 +1,7 @@
 let label =document.getElementById('time')
 let weekDay =document.getElementById('weekDay')
 
+
 function update(){
     let date=new Date()
     label.textContent=formatDate(date)
