@@ -1,10 +1,11 @@
 let label =document.getElementById('time')
 let weekDay =document.getElementById('weekDay')
 
+
 function update(){
     let date=new Date()
-    label.innerHTML=formatDate(date)
-    weekDay.innerHTML=formatDay()
+    label.textContent=formatDate(date)
+    weekDay.textContent=formatDay()
     //---------------------------------------------- format functions  (nested functions)
     function formatDate(date){
         //------------------------------------------ config hour & pm or am
